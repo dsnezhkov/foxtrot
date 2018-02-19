@@ -11,7 +11,11 @@
 
 Interactive console
 
+- *Slave perspective*
+
 [![Slave perspective](https://asciinema.org/a/tNUDFHXnsAajU3l1SHsbqSDCB.png)](https://asciinema.org/a/tNUDFHXnsAajU3l1SHsbqSDCB)
+
+- *Master perspective*
 
 [![Master perspetive](https://asciinema.org/a/gUtGGPSWfcr1gDfuDmF2PHGQQ.png)](https://asciinema.org/a/gUtGGPSWfcr1gDfuDmF2PHGQQ)
 
