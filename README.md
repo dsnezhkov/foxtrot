@@ -6,18 +6,12 @@
  - Data channel: Firefox Send Private Encrypted Sharing Service 
  - Command channel: DNS  
 
-[Wiki](https://github.com/dsnezhkov/foxtrot/wiki)
-
-[Docs](https://github.com/dsnezhkov/foxtrot/tree/master/docs)
-
-
---
 
 [Command line examples](https://github.com/dsnezhkov/foxtrot/tree/master/docs/run.sh)
-
 
 Interactive console
 ![Console](https://github.com/dsnezhkov/foxtrot/blob/master/docs/console.png)
 
+More details in [Wiki](https://github.com/dsnezhkov/foxtrot/wiki)
 
 
