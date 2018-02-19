@@ -10,7 +10,10 @@
 [Command line examples](https://github.com/dsnezhkov/foxtrot/tree/master/docs/run.sh)
 
 Interactive console
-![Console](https://github.com/dsnezhkov/foxtrot/blob/master/docs/console.png)
+
+[![Slave perspective](https://asciinema.org/a/tNUDFHXnsAajU3l1SHsbqSDCB.png)](https://asciinema.org/a/tNUDFHXnsAajU3l1SHsbqSDCB)
+
+[![Master perspetive](https://asciinema.org/a/gUtGGPSWfcr1gDfuDmF2PHGQQ.png)](https://asciinema.org/a/gUtGGPSWfcr1gDfuDmF2PHGQQ)
 
 More details in [Wiki](https://github.com/dsnezhkov/foxtrot/wiki)
 
