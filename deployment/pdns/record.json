@@ -1,0 +1,50 @@
+{
+    "kind": "Native",
+    "soa_edit_api": "INCEPTION-INCREMENT",
+    "masters": [],
+    "name": "s3bucket.stream.",
+    "nameservers": ["ns1.s3bucket.stream.", "ns2.s3bucket.srtream."],
+    "rrsets": [
+	    {
+	    	"name": "s3bucket.stream.",
+	    	"type": "SOA",
+	    	"ttl": 86400,
+	    	"records": [{
+		    "content": "ns1.s3bucket.stream. hostmaster.s3bucket.stream. 1508130754 10800 3600 604800 1800",
+		    "disabled": false
+		}]
+	    },
+	    {
+	      "name": "s3bucket.stream.",
+	      "ttl": 86400,
+	      "type": "NS"
+	    },
+	    {
+              "name": "ns1.s3bucket.stream.",
+              "type": "A",
+              "ttl": 86400,
+              "records": [{
+		  "content": "138.68.234.147",
+		  "disabled": false
+              }]
+            },
+	    {
+              "name": "ns2.s3bucket.stream.",
+              "type": "A",
+              "ttl": 86400,
+              "records": [{
+		  "content": "138.68.234.147",
+		  "disabled": false
+              }]
+            },
+	    {
+              "name": "s47898._domainkey.s3bucket.stream.",
+              "type": "TXT",
+              "ttl": 86400,
+              "records": [{
+		  "content": "\"v=DKIM1; h=sha256; k=rsa; t=y; s=email; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAulU+SIDAQAB\"",
+		  "disabled": false
+              }]
+            }
+    ]
+}
