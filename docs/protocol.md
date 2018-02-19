@@ -1,4 +1,4 @@
-
+```
 {
 	msgtype(t): request(q) | response(s)
     jobstate(s): AWAIT(W)|ABUSY(B)|SJOB(J)
@@ -12,18 +12,18 @@
 	req_type(c): oscmd(o)|file(f)|mcmd(m)
 			 oscmd: Agent is tasked with executing an os command, inline or path to file with commands (not script).
 			 file: Agent is tasked with saving data to disk in a file
-			 mcmd: Agent is tasked to execute it's maintenance
-			        CHECKIN_FREQ | TERMINATE
+			 mcmd: Agent is tasked to execute it's maintenance (not implemented)
+
 	resp_type: url
 
 	 url(u): Server is to pick up response from agent at this sendservice URL
 	 url(u):  Agent is to pick up data for request types from this sendservice URL
 
-	timestamp: date/time UTC epoch
+	timestamp: date/time UTC epoch (not implemented)
 }
 
 
-Request by server to agent to execute OS command, details at the url ...
+Sample Request by server to agent to execute OS command, details at the url ...
 {
  't':'q',
  's':'J',
@@ -32,6 +32,6 @@ Request by server to agent to execute OS command, details at the url ...
 }
 
 { 't':'q', 's':'J', 'c' :'o' 'u': 'http://...........................' }
-
+```
 
 
