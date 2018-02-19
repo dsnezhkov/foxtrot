@@ -1,10 +1,11 @@
 # Foxtrot C2 
 
 
- C&C to deliver files and shuttle command execution instructions between an external actor and an internal agent.
+ C&C to deliver content and shuttle command execution instructions from an external agent to an internal agent.
 
  - Data channel: Firefox Send Private Encrypted Sharing Service 
  - Command channel: DNS  
+
 
 [Architecture](https://github.com/dsnezhkov/foxtrot/wiki/Architecture)
 
@@ -15,11 +16,11 @@
 
 Interactive console example
 
-- *Slave perspective* Gets files or comamnds from master, processes and repsonds accordingly
+- *Slave perspective* : Gets files or commands from a master, processes and repsonds accordingly.
 
 [![Slave perspective](https://asciinema.org/a/tNUDFHXnsAajU3l1SHsbqSDCB.png)](https://asciinema.org/a/tNUDFHXnsAajU3l1SHsbqSDCB)
 
-- *Master perspective* Instructs slave agents to execute command or store a file
+- *Master perspective* : Instructs a slave to execute command or store a file.
 
 [![Master perspetive](https://asciinema.org/a/gUtGGPSWfcr1gDfuDmF2PHGQQ.png)](https://asciinema.org/a/gUtGGPSWfcr1gDfuDmF2PHGQQ)
 
