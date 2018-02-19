@@ -6,5 +6,17 @@
  with a command channel over DNS.
 
 [Wiki](https://github.com/dsnezhkov/foxtrot/wiki)
+
 [Docs](https://github.com/dsnezhkov/foxtrot/tree/master/docs)
-[Example](https://github.com/dsnezhkov/foxtrot/tree/master/docs/run.sh)
+
+
+--
+
+[Command line examples](https://github.com/dsnezhkov/foxtrot/tree/master/docs/run.sh)
+
+
+Interactive console
+![Console](https://github.com/dsnezhkov/foxtrot/blob/master/docs/console.png)
+
+
+
