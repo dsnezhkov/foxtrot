@@ -1,9 +1,10 @@
 # Foxtrot C2 
 
 
- C&C Infrastructure to deliver files and shuttle command execution instructions 
- between an external actor and an internal agent, over Firefox Send service,  
- with a command channel over DNS.
+ C&C to deliver files and shuttle command execution instructions between an external actor and an internal agent.
+
+ - Data channel: Firefox Send Private Encrypted Sharing Service 
+ - Command channel: DNS  
 
 [Wiki](https://github.com/dsnezhkov/foxtrot/wiki)
 
