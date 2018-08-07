@@ -11,7 +11,7 @@
 
 [Command line examples](https://github.com/dsnezhkov/foxtrot/tree/master/docs/run.sh)
 
-[Full Usage](https://github.com/dsnezhkov/foxtrot/wiki/Invocation)
+[Full Usage](https://github.com/dsnezhkov/foxtrot/wiki/Invocation) _Updated_
 
 More details in [Wiki](https://github.com/dsnezhkov/foxtrot/wiki)
 
