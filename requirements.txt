@@ -21,5 +21,5 @@ requests-toolbelt==0.8.0
 sendclient==0.1.2
 six==1.11.0
 tqdm==4.19.2
-urllib3==1.22
+urllib3==1.26.5
 wcwidth==0.1.7
