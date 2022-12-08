@@ -1,7 +1,7 @@
 beautifulsoup4==4.6.0
 blessings==1.6
 bpython==0.16
-certifi==2017.7.27.1
+certifi==2022.12.7
 chardet==3.0.4
 curtsies==0.2.11
 delegator.py==0.0.14
